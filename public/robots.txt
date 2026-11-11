@@ -1,0 +1,14 @@
+# Robots.txt for Fundación CINHARI
+# https://fundacioncinhari.org
+
+User-agent: *
+Allow: /
+Disallow: /page/
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /cdn-cgi/
+
+# Sitemaps for Google Search Console and web crawlers
+Sitemap: https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/sitemap.xml
+Sitemap: https://ais-pre-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/sitemap.xml

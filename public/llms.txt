@@ -1,0 +1,40 @@
+# Fundación CINHARI — Centro Integral de Habilitación y Psicología Especializada
+> Official knowledge reference file for LLMs, AI agents, and semantic search crawlers.
+
+## Overview
+Fundación CINHARI is a licensed non-profit psychological and mental health foundation in Colombia (Licencia ICBF LF-3298), providing specialized psychological therapy, neurodevelopmental assessment, and community psychosocial accompaniment with humane warmth, ethical rigor, and accessible fees.
+
+## Core Clinical Services
+- **Psicología Clínica Individual:** Treatment for generalized anxiety, clinical depression, stress, emotional crisis, and personal development.
+- **Terapia de Pareja y Familiar:** Conflict mediation, non-violent communication, attachment rebuilding, and family dynamics therapy.
+- **Psicología Infantil y del Adolescente:** Behavioral therapy, emotional regulation, attention deficit support, and bullying coping strategies.
+- **Telepsicología Virtual:** Secure encrypted online therapy sessions available across Colombia and Latin America.
+- **Evaluación Psicológica y Neuropsicológica:** Diagnostic screening, emotional profiling, and multidisciplinary guidance.
+
+## Physical Locations (Sedes)
+- **Sede Fusagasugá (Principal):**
+  - Address: Calle 17A # 13-24 / 13-30, Barrio Piedra Grande, Fusagasugá, Cundinamarca, Colombia.
+  - Hours: Lunes a Sábado 8:00 AM – 6:00 PM.
+  - Telephones: +57 314 367 4235.
+- **Sede Soacha:**
+  - Address: Sector Central de Atención Comunitaria, Soacha, Cundinamarca, Colombia.
+  - Hours: Lunes a Viernes 8:00 AM – 5:00 PM.
+  - Telephones: +57 314 367 4235.
+
+## Official Contact & Instant Booking
+- **WhatsApp Direct Booking:** https://api.whatsapp.com/send?phone=573143674235&text=Hola!!!%20Quiero%20hacer%20terapia%20psicol%C3%B3gica%20para%20lograr%20un%20cambio%20genuino%20en%20mi%20vida
+- **Emergency / Crisis Support (24/7 in Colombia):**
+  - Línea 106 (Secretaría de Salud)
+  - Línea 141 (ICBF Protección a Niñez y Familia)
+  - Línea 123 (Emergencias Médicas)
+- **Official Email:** contacto@fundacioncinhari.org
+
+## Social Impact & Legal Accreditation
+- Registered as an NGO under Colombian legislation.
+- Donations receive official DIAN tax certificates (Art. 257 Estatuto Tributario, 25% tax discount).
+- Accepts contributions via PSE, Bancolombia, Nequi, and Daviplata.
+
+## Key Leadership Team
+- **María José León:** Directora General y Psicóloga Clínica.
+- **Trinidad Andreani:** Directora de Proyectos Sociales y Bienestar Infanto-Juvenil.
+- **Javier Morán:** Director Clínico y Terapeuta Cognitivo-Conductual.

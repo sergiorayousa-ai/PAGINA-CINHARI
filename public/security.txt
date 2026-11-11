@@ -1,0 +1,17 @@
+# Security Policy & Anti-Phishing Verification — Fundación CINHARI
+# Standard RFC 9116: https://www.rfc-editor.org/rfc/rfc9116
+
+Contact: mailto:contacto@fundacioncinhari.org
+Contact: tel:+57-314-3674235
+Contact: https://api.whatsapp.com/send?phone=573143674235
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: es, en
+Canonical: https://fundacioncinhari.org/.well-known/security.txt
+Policy: https://fundacioncinhari.org/#contacto
+
+# Verification Details:
+# Legal entity: Fundación CINHARI (Centro Integral de Habilitación y Psicología Especializada)
+# NIT: 901.428.190-2 (DIAN Colombia)
+# ICBF License: LF-3298
+# Physical address: Calle 17A # 13-24, Fusagasugá, Cundinamarca, Colombia
+# Official Bank Account: Registered exclusively under name "FUNDACIÓN CINHARI". No personal accounts.

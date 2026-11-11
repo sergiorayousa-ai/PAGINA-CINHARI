@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-architects {
+    font-family: 'Architects Daughter', cursive, sans-serif;
+  }
+}

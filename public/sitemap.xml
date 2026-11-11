@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage & Core Search Intent -->
+  <url>
+    <loc>https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/?lang=en"/>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Quiénes Somos / Clinical Directory -->
+  <url>
+    <loc>https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/#quienes-somos</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Servicios y Modalidades Terapéuticas -->
+  <url>
+    <loc>https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/#servicios</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Sedes de Atención (Fusagasugá & Soacha) -->
+  <url>
+    <loc>https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/#sedes</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Preguntas Frecuentes / FAQ -->
+  <url>
+    <loc>https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/#preguntas-frecuentes</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Test de Bienestar Emocional -->
+  <url>
+    <loc>https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/#evaluacion</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Recursos y Guías de Salud Mental -->
+  <url>
+    <loc>https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/#recursos</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Blog y Noticias -->
+  <url>
+    <loc>https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/#noticias</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Donaciones Solidarias con Certificado DIAN -->
+  <url>
+    <loc>https://ais-dev-a3zzippas5v3b6i5uvkb4t-260187606353.us-east5.run.app/#donaciones</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+</urlset>

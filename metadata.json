@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Fundación CINHARI",
+  "description": "CINHARI — Psicología Especializada y Habilitación Integral en Calle 17 A # 13-24, Teléfono 314 3674235. Acompañamiento en salud mental, test emocional, recursos de bienestar y donaciones solidarias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
